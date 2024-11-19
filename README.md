@@ -66,7 +66,7 @@ Y= A⊕B
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: jenil pio j
+ Developed by: JENIL PIO J
  
  RegisterNumber: 212223220040
 
